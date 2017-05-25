@@ -6,5 +6,5 @@ Just some brew formulas.
 
 install by
 ```
-brew install pandada8/package/v2ray
+brew install 764664/package/v2ray
 ```
